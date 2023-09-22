@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+.Newbar{
+  background-color: #0B02827F !important;
+}
+.textnav{
+  color: white !important;
+}
+.textnav:hover{
+  background-color: white !important;
+  color: black !important;
+  border-radius: 30px;
+  text-decoration-line: underline;
+  text-decoration-color: red;
+}
+.BoxGral {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1 {
+  color: #333;
+}
+p {
+  line-height: 1.6;
+}
